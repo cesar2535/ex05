@@ -16,19 +16,22 @@ The print function may be used only in the prepare functions. Follow [Dart Style
 
 4.  Create a function that handles the times table for any number. Check the function with the 8 times table.
 
-5.  Write a function that displays, in a balanced way, a tree with any height. For example, a tree with the height of 5,
-
+5.  Write a function that displays, in a balanced way, a tree with any height. 
+```
+For example, a tree with the height of 5,
         *            
        ***
       *****
      *******
     *********
+```
 
+```
 or the height of 6.
-
         *            
        ***
       *****
      *******
     *********
    ***********
+```
